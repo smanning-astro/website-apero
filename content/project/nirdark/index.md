@@ -6,21 +6,26 @@ categories:
 - package
 date: "2023-01-12"
 draft: false
-excerpt: New surveys reveal a significant population of distant galaxies which had gone undetected in the deepest available optical and near-infrared observations. 
+excerpt: New surveys reveal a significant population of distant galaxies which have gone undetected in the deepest available optical and near-infrared observations. 
 layout: single
-subtitle: A purposefully vague umbrella term, "NIR-dark" describes a wide array of distant and dust-obscured galaxies detected in surveys with varying wavelength coverage and depth. Our challenge is now to disentangle the distinct galaxy populations which may exist within this broad framework.
+subtitle: A purposefully vague umbrella term, "NIR-dark" describes a wide array of distant and dust-obscured galaxies characterized by their lack of optical/near-infrared detections, but strong far-infrared, millimeter, and/or radio wavelengths. Our challenge now is to disentangle the distinct galaxy populations which may exist within this broad framework.
 tags:
 - hugo-site
 title: NIR-dark Galaxies
 ---
 
+![mora-5 cutout](cutoutfig_s5_oct15.png)
+
+### Cutouts of a NIR-dark galaxy called MORA-5 clearly show non-detections in deep _Hubble Space Telescope_ imaging, but strong emission at longer wavelengths. 
+
 ![NIR-dark MS Plot](sfr_mstar_NIRdark_aug23_2022.png)
 
-## The star-formation main sequence plot above illustrates the heterogenous nature of NIR-dark galaxies discovered thus far.
+### The star-formation main sequence plot above illustrates the apparent heterogenous nature of some of the NIR-dark galaxies discovered thus far.
 
 ---
 
-### NIR-dark Galaxies in the MORA Survey
+These galaxies were discovered in surveys with varying wavelength coverage, depth, and all with distinct selection techniques, further complicating matters as we attempt to work out their formation histories and evolutionary pathways. 
 
-Check out the MORA project page for more information on the survey.
+### NIR-dark Galaxies in the MORA Survey
+Four NIR-dark sources were detected in the MORA Survey (check out more on that survey [here](../mora)). Their photometric properties suggest they might be the highest-redshift objects in our 2mm ALMA map. A complete analysis of these galaxies, their physical properties, and potential evolutionary connection to high redshift quiescent galaxies can be found in [Manning et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...925...23M/abstract).  
 

@@ -7,7 +7,7 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
 
-  Although I haven't lived there since I was 18, Seattle will always be my hometown. Growing up in the Pacific Northwest I learned early to enjoy a nice romp out in nature, that a little rain never hurt nobody, and that Starbucks does not equal coffee.
+  Although I haven't lived there long-term since I was 18, Seattle will always be my hometown. Growing up in the Pacific Northwest I learned early to enjoy a nice romp out in nature, that a little rain never hurt nobody, and that Starbucks does not equal coffee.
   
 
 
