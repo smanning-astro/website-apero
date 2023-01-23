@@ -16,13 +16,11 @@ title: NIR-dark Galaxies
 
 ![mora-5 cutout](cutoutfig_s5_oct15.png)
 
-### Cutouts of a NIR-dark galaxy called MORA-5 clearly show non-detections in deep _Hubble Space Telescope_ imaging, but strong emission at longer wavelengths. 
+Above: Cutouts of a NIR-dark galaxy called MORA-5 clearly show non-detections in deep _Hubble Space Telescope_ imaging, but strong emission at longer wavelengths. The orange contour depicts the robust (5 sigma) ALMA detection.
 
 ![NIR-dark MS Plot](sfr_mstar_NIRdark_aug23_2022.png)
 
-### The star-formation main sequence plot above illustrates the apparent heterogenous nature of some of the NIR-dark galaxies discovered thus far.
-
----
+Above: This star-formation main sequence plot illustrates the apparent heterogenous nature of some of the NIR-dark galaxies discovered thus far.
 
 These galaxies were discovered in surveys with varying wavelength coverage, depth, and all with distinct selection techniques, further complicating matters as we attempt to work out their formation histories and evolutionary pathways. 
 

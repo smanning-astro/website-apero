@@ -19,6 +19,7 @@ Read the full survey overview paper here: [Casey & Kartaltepe et al. 2022](https
 ![cosmos-web coverage](cosmos-web.png)
 Above: Map of the COSMOS-Web tiling pattern over _Hubble Space Telescope_ imaging of the COSMOS field. Credit: Casey & Kartaltepe et al. 2022.
 
+---
 ### Primary Science Goals
 
 - Discover and characterize 6<z<11 galaxies in the Epoch of Reionization
@@ -26,7 +27,6 @@ Above: Map of the COSMOS-Web tiling pattern over _Hubble Space Telescope_ imagin
 - Identify rare quiescent galaxies at z>4
 
 - Directly measure the evolution of the stellar mass to halo relation out to z~2.5
-
 
 ---
 
