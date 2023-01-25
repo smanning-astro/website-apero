@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/galaxy_icon.png"
   logo = "/img/galaxy_icon.png"
-  mainSections = []# ["blog", "project", "talk"]
+  mainSections = ["blog","project"]#,"talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -143,7 +143,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/CV_SManning.pdf"
+    url = "/cv/CV_SManning_Jan24_2023.pdf"
     weight = 4
 #  [[menu.header]]
 #    name = "A collection"

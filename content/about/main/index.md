@@ -11,7 +11,7 @@ intro: |
   
 
 
-show_outro: true
+show_outro: false
 outro: |
   <i class="fas fa-sun"></i>Check out the **EXTRA** tab at the top for recent updates and links in the sidebar to learn more about some of my interests outside of astronomy. 
 ---
