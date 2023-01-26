@@ -29,8 +29,6 @@ Above: This star-formation main sequence plot illustrates the apparent heterogen
 ### Non-uniform selection
 These galaxies were discovered in surveys with varying wavelength coverage, depth, and all with distinct selection techniques, further complicating matters as we attempt to work out their formation histories and evolutionary pathways. 
 
----
-
 ### NIR-dark Galaxies in the MORA Survey
 Four NIR-dark sources were detected in the MORA Survey (check out more on that survey [here](../mora)). Their photometric properties suggest they might be the highest-redshift objects in our 2mm ALMA map. A complete analysis of these galaxies, their physical properties, and potential evolutionary connection to high redshift quiescent galaxies can be found in [Manning et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...925...23M/abstract).  
 

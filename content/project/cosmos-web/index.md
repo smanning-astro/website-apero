@@ -1,9 +1,9 @@
 ---
 author: Sinclaire M. Manning
 categories:
-- Theme Features
-- R
-- package
+- High Redshift
+- Published Papers
+- Catalogs
 date: "2023-01-12"
 draft: false
 excerpt: A JWST Cosmic Origins Survey.
@@ -28,8 +28,8 @@ Above: Map of the COSMOS-Web tiling pattern over _Hubble Space Telescope_ imagin
 
 - Directly measure the evolution of the stellar mass to halo relation out to z~2.5
 
----
+### How do I plan to utilize COSMOS-Web?
 
-I am particularly interested in using these _JWST_ observations to revisit our NIR-dark dusty galaxies and place firm constraints on their stellar masses, sizes, and morphologies.
+I am particularly excited to revisit our NIR-dark dusty galaxies with these _JWST_ observations. The increased photometric coverage will drastically improve their photmetric redshift estimates and allow us to place much firmer constraints on their stellar masses and star formation rates. Additionally, we will be able to assess their rest-frame optical sizes and morphologies for the first time.
 
 Observations of the full field will be completed by January 2024.
