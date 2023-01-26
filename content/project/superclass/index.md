@@ -1,17 +1,17 @@
 ---
 author: Sinclaire M. Manning
 categories:
-- Theme Features
-- R
-- package
-date: "2023-01-10"
+- Catalogs
+- Radio Observations
+- Published Papers
+date: "2023-01-09"
 draft: false
 excerpt: A photometric redshift catalog for the Super-Cluster Assisted Shear Survey.
 layout: single
 subtitle: 
 tags:
 - hugo-site
-title: SuperCLASS Catalog
+title: SuperCLASS Survey
 subtitle: The SuperCLuster Assisted Shear Survey.
 ---
 SuperCLASS is a deep, wide-area survey originally designed to detect the effects of weak lensing in radio continuum in a supercluster region. We look to repurpose it to obtain internal ~kpc maps of micro-Jansky radio sources around the peak of cosmic star formation (z~2) and determine their evolutionary origins through morphological analysis.

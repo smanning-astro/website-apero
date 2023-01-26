@@ -1,10 +1,10 @@
 ---
 author: Sinclaire M. Manning
 categories:
-- Theme Features
-- R
-- package
-date: "2023-01-12"
+- High-redshift
+- DSFGs
+- Published Papers
+date: "2023-01-11"
 draft: false
 excerpt: New surveys reveal a significant population of distant galaxies which have gone undetected in the deepest available optical and near-infrared observations. 
 layout: single
@@ -18,11 +18,17 @@ title: NIR-dark Galaxies
 
 Above: Cutouts of a NIR-dark galaxy called MORA-5 clearly show non-detections in deep _Hubble Space Telescope_ imaging, but strong emission at longer wavelengths. The orange contour depicts the robust (5 sigma) ALMA detection.
 
+---
+
 ![NIR-dark MS Plot](sfr_mstar_NIRdark_aug23_2022.png)
 
 Above: This star-formation main sequence plot illustrates the apparent heterogenous nature of some of the NIR-dark galaxies discovered thus far.
 
+---
+
+### Non-uniform selection
 These galaxies were discovered in surveys with varying wavelength coverage, depth, and all with distinct selection techniques, further complicating matters as we attempt to work out their formation histories and evolutionary pathways. 
+
 ---
 
 ### NIR-dark Galaxies in the MORA Survey

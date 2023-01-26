@@ -4,7 +4,7 @@ categories:
 - High-redshift
 - DSFGs
 - Published Papers
-date: "2023-01-11"
+date: "2023-01-10"
 draft: false
 excerpt: The Mapping Obscuration to Reionization with ALMA Survey searches for redshift > 4 dusty star-forming galaxies at 2mm.
 layout: single
@@ -12,8 +12,9 @@ subtitle: The Mapping Obscuration to Reionization with ALMA Survey is the larges
 tags:
 - hugo-site
 title: MORA Survey
----
 
+---
+--- 
 ![mora map](ex-mora_map.png)
 
 Above: MORA coverage map within the COSMOS extragalactic field. The teal regions show the mosaics produced from the original survey, while the green region illustrates the approved extended map (Ex-MORA), the observations for which are now largely in hand.

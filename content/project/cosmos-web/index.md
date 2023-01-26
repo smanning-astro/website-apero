@@ -6,7 +6,7 @@ categories:
 - package
 date: "2023-01-12"
 draft: false
-excerpt: A JWST Cosmic Origins Survey
+excerpt: A JWST Cosmic Origins Survey.
 layout: single
 subtitle: An ambitious addition to the Cosmic Evolution Survey (COSMOS), COSMOS-Web is a 255 hour treasury program conducted by JWST estimated to detect over 1 million galaxies. 
 tags:
@@ -31,3 +31,5 @@ Above: Map of the COSMOS-Web tiling pattern over _Hubble Space Telescope_ imagin
 ---
 
 I am particularly interested in using these _JWST_ observations to revisit our NIR-dark dusty galaxies and place firm constraints on their stellar masses, sizes, and morphologies.
+
+Observations of the full field will be completed by January 2024.
