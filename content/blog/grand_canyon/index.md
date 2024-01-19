@@ -11,5 +11,5 @@ title: Eclipse Crew 2 `:` Canyon Boogaloo
 subtitle: The Eclipse Crew reunited in Arizona to take on another breathtaking (and occasionally grueling) backpacking adventure, spending 5 days and 4 nights hiking down and out of the Grand Canyon.
 ---
 
-![start](group_star.jpg)
-We began our descent at the start of Hermit Trail.
+![start](group_start.jpg)
+We began our descent at the start of Hermit Trail. 

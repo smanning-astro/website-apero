@@ -143,7 +143,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/CV_SManning_Jan24_2023.pdf"
+    url = "/cv/CV_SManning_Jan2024.pdf"
     weight = 4
 #  [[menu.header]]
 #    name = "A collection"
